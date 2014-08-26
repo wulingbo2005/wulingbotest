@@ -1,2 +1,2 @@
-Git is good
+Git is very good
 Git is free
